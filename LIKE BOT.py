@@ -20,7 +20,7 @@ from telegram.ext import (
 # NOTE: rotate this token via @BotFather — it was pasted in plaintext and
 # should be treated as compromised. Prefer loading from an environment
 # variable instead of hardcoding it in source.
-BOT_TOKEN = ("BOT_TOKEN)("8988399911:AAEAOVXEMmo_xhKqC_NP_RkH7vP8QWtczY8")
+BOT_TOKEN = "8988399911:AAEAEOVXEMmo_xhKqC_NP_RKh7vP8QwtczY8"
 
 API_VISIT_BASE = "https://sowi-visit-api-today-api.vercel.app"
 API_LIKE_BASE = "https://like-api-by-ajay-one-last.vercel.app"
